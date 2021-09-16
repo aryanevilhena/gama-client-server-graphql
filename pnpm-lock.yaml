@@ -1,0 +1,14 @@
+lockfileVersion: 5.3
+
+specifiers:
+  graphql: ^15.5.1
+
+dependencies:
+  graphql: 15.5.1
+
+packages:
+
+  /graphql/15.5.1:
+    resolution: {integrity: sha512-FeTRX67T3LoE3LWAxxOlW2K3Bz+rMYAC18rRguK4wgXaTZMiJwSUwDmPFo3UadAKbzirKIg5Qy+sNJXbpPRnQw==}
+    engines: {node: '>= 10.x'}
+    dev: false
